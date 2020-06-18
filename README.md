@@ -1,4 +1,4 @@
 # testing_rstudio_in_github
 This is a test to see whether I can set up Rstudio in Github
 
-I am making changes from rstudio
+I am making changes from rstudio. Are they working?
