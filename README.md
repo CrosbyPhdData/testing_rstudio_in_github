@@ -1,0 +1,2 @@
+# testing_rstudio_in_github
+This is a test to see whether I can set up Rstudio in Github
